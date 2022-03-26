@@ -1,0 +1,51 @@
+<?php
+
+    $langue = array(
+
+        'title'=>'Chat App | Simplon',
+        "setting"=>"Setting",
+        "logout"=>"Logout",
+        'french'=>'Frensh',
+        'english'=>'English',
+        'dating'=>'Dating',
+        'news'=>'News',
+        'business'=>'Business',
+        'entertainment'=>'Entertainment',
+        'selectUser'=>'Select a user to start the chat',
+        'MessageUnavailable'=>'No message is available. Once you send a message they will appear here',
+        'entertainmentGroup'=>'Entertainment Group',
+        'datingGroup'=>'Dating Group',
+        'newsGroup'=>'News Group',
+        'businessGroup'=>'business Group',
+        'seacheName' => 'Enter the name to search ...',
+        'availablity' => 'No user is available to chat',
+        'emailExists' => 'This email already exists!',
+        'emailENoExists' => 'This e-mail address does not exist!',
+        'something' => 'Something went wrong. Try Again!',
+        'imageENoExists' => 'Please upload an image file - jpeg, png, jpg',
+        'emailENoValid' => 'is not a valid e-mail!',
+        'requiredField' => 'All input fields are required!',
+        'name' => 'Name',
+        'firstName' => 'First name',
+        'email' => 'E-mail adress',
+        'password' => 'Password',
+        'alreadyregistered' => 'Already registered',
+        'loginnow' => 'Log in now',
+        'enterYouEmail' => 'Enter your email',
+        'enterYouPassword' => 'Enter a new password',
+        'enterYouName' => 'Enter your Name',
+        'continue' => 'To continue',
+        'simplonchatapp' => 'Simplon Chat app',
+        'selectionImage' => 'Image Selection',
+        'noRegister' => 'Not registered ?',
+        'register' => 'Register now',
+        'validateEmailPassword' => 'Incorrect email or password!',
+        'messageAvailability' => 'No message is available. Once you send a message they will appear here',
+        'userVisibility' => 'No user found related to your search term',
+        'message2Visibility' => 'No message available',
+        'ecrireMessage' => 'Type a message here...',
+        
+    );
+    // header("location: ../paramettre.php");     
+
+?>
